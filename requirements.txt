@@ -2,4 +2,4 @@ streamlit
 pandas
 openpyxl
 supabase
-streamlit-autofresh
+streamlit-autorefresh
