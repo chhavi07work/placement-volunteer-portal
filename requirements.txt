@@ -3,4 +3,3 @@ pandas
 openpyxl
 supabase
 streamlit-autorefresh==1.0.1
-st.secrets
